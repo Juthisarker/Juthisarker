@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
-I am Juthi. I am Software Engineer from Bangladesh.
+I am Software Engineer from Bangladesh.
 
 - 🔭 I’m currently working on frontend and backend for building web applications.
 - 🌱 I’m currently learning javascript.
