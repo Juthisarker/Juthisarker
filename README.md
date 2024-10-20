@@ -7,7 +7,7 @@ I am a Software Engineer.
 
 - 🔭 I’m currently working on frontend and backend for building web applications.
 - 🌱 I’m currently learning javascript.
-- 👯 I’m looking to collaborate on System design.
+- 👯 I’m looking to collaborate on backend development, micro-service, and system design.
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juthi-sarker-aka-35885ba5/)
 - ⚡ In my free time, I solve problems on leet code and read tech articles.
 ---
